@@ -14,7 +14,7 @@ int main() {
     double area = pi * pow(radio, 2);
 
     // Mostrar el resultado
-    std::cout << "El area del circulo es: " << area << std::endl;
+    std::cout << "El area del circulo que desea calcular es " << area << std::endl;
 
     return 0;
 }
