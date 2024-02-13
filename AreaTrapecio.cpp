@@ -21,7 +21,7 @@ int main() {
     area = ((baseMayor + baseMenor) * altura) / 2;
 
     // Mostrar el resultado
-    cout << "El área del trapecio es: " << area << endl;
+    cout << "El área del trapecio es : " << area << endl;
 
     return 0;
 }
