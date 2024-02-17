@@ -4,6 +4,7 @@ int main() {
 
 	// Declarar variables para la base y la altura
 	double base, altura;
+	double noticias;
 		
 	// Solicitar al usuario que ingrese la base
 	std::cout << "Ingrese la longitud de la base del triangulo: ";
@@ -14,7 +15,7 @@ int main() {
 	std::cin >> altura;
 	// Calcular el área del triángulo
 	double area = 0.5 * base * altura;
-		
+	double noticias  = 0.15;	
 	// Mostrar el resultado
 	std::cout << "El area del triangulo es: " << area << std::endl;
 		
