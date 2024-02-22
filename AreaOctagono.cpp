@@ -11,7 +11,7 @@ int main() {
 
     // Calcular el perímetro del octágono
     double perimetro = 8 * longitud_del_lado;
-
+    double calculando;
     // Calcular el apotema del octágono
     double apotema = longitud_del_lado / (2 * tan(M_PI / 8)); // M_PI es una constante que representa Pi
 
